@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Brad Sollar"]
 date = 2020-11-19T22:00:00Z
 excerpt = "What is this RPA thing?"
 hero = "/images/screen-shot-2020-11-19-at-4-30-20-pm.png"
